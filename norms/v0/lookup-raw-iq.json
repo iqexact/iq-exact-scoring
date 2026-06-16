@@ -1,0 +1,284 @@
+{
+  "norms_version": "v0",
+  "form": "A",
+  "max_score": 22,
+  "description": "Raw score to IQ mapping (Form A, 22 items). TCC inversion + EAP at boundaries.",
+  "rows": [
+    {
+      "raw": 0,
+      "theta": -4.0,
+      "iq": 55,
+      "sem_theta": 2.132,
+      "iq_ci95": [
+        55,
+        103
+      ],
+      "percentile": 0.0,
+      "boundary": true
+    },
+    {
+      "raw": 1,
+      "theta": -2.444,
+      "iq": 63,
+      "sem_theta": 0.669,
+      "iq_ci95": [
+        55,
+        83
+      ],
+      "percentile": 0.7,
+      "boundary": false
+    },
+    {
+      "raw": 2,
+      "theta": -1.93,
+      "iq": 71,
+      "sem_theta": 0.468,
+      "iq_ci95": [
+        57,
+        85
+      ],
+      "percentile": 2.7,
+      "boundary": false
+    },
+    {
+      "raw": 3,
+      "theta": -1.612,
+      "iq": 76,
+      "sem_theta": 0.393,
+      "iq_ci95": [
+        64,
+        87
+      ],
+      "percentile": 5.4,
+      "boundary": false
+    },
+    {
+      "raw": 4,
+      "theta": -1.366,
+      "iq": 80,
+      "sem_theta": 0.356,
+      "iq_ci95": [
+        69,
+        90
+      ],
+      "percentile": 8.6,
+      "boundary": false
+    },
+    {
+      "raw": 5,
+      "theta": -1.156,
+      "iq": 83,
+      "sem_theta": 0.334,
+      "iq_ci95": [
+        73,
+        92
+      ],
+      "percentile": 12.4,
+      "boundary": false
+    },
+    {
+      "raw": 6,
+      "theta": -0.967,
+      "iq": 85,
+      "sem_theta": 0.32,
+      "iq_ci95": [
+        76,
+        95
+      ],
+      "percentile": 16.7,
+      "boundary": false
+    },
+    {
+      "raw": 7,
+      "theta": -0.793,
+      "iq": 88,
+      "sem_theta": 0.308,
+      "iq_ci95": [
+        79,
+        97
+      ],
+      "percentile": 21.4,
+      "boundary": false
+    },
+    {
+      "raw": 8,
+      "theta": -0.629,
+      "iq": 91,
+      "sem_theta": 0.297,
+      "iq_ci95": [
+        82,
+        99
+      ],
+      "percentile": 26.5,
+      "boundary": false
+    },
+    {
+      "raw": 9,
+      "theta": -0.475,
+      "iq": 93,
+      "sem_theta": 0.286,
+      "iq_ci95": [
+        84,
+        101
+      ],
+      "percentile": 31.7,
+      "boundary": false
+    },
+    {
+      "raw": 10,
+      "theta": -0.329,
+      "iq": 95,
+      "sem_theta": 0.274,
+      "iq_ci95": [
+        87,
+        103
+      ],
+      "percentile": 37.1,
+      "boundary": false
+    },
+    {
+      "raw": 11,
+      "theta": -0.19,
+      "iq": 97,
+      "sem_theta": 0.264,
+      "iq_ci95": [
+        89,
+        105
+      ],
+      "percentile": 42.5,
+      "boundary": false
+    },
+    {
+      "raw": 12,
+      "theta": -0.056,
+      "iq": 99,
+      "sem_theta": 0.255,
+      "iq_ci95": [
+        92,
+        107
+      ],
+      "percentile": 47.8,
+      "boundary": false
+    },
+    {
+      "raw": 13,
+      "theta": 0.074,
+      "iq": 101,
+      "sem_theta": 0.249,
+      "iq_ci95": [
+        94,
+        108
+      ],
+      "percentile": 53.0,
+      "boundary": false
+    },
+    {
+      "raw": 14,
+      "theta": 0.204,
+      "iq": 103,
+      "sem_theta": 0.249,
+      "iq_ci95": [
+        96,
+        110
+      ],
+      "percentile": 58.1,
+      "boundary": false
+    },
+    {
+      "raw": 15,
+      "theta": 0.337,
+      "iq": 105,
+      "sem_theta": 0.254,
+      "iq_ci95": [
+        98,
+        113
+      ],
+      "percentile": 63.2,
+      "boundary": false
+    },
+    {
+      "raw": 16,
+      "theta": 0.478,
+      "iq": 107,
+      "sem_theta": 0.267,
+      "iq_ci95": [
+        99,
+        115
+      ],
+      "percentile": 68.4,
+      "boundary": false
+    },
+    {
+      "raw": 17,
+      "theta": 0.635,
+      "iq": 110,
+      "sem_theta": 0.289,
+      "iq_ci95": [
+        101,
+        118
+      ],
+      "percentile": 73.7,
+      "boundary": false
+    },
+    {
+      "raw": 18,
+      "theta": 0.819,
+      "iq": 112,
+      "sem_theta": 0.323,
+      "iq_ci95": [
+        103,
+        122
+      ],
+      "percentile": 79.4,
+      "boundary": false
+    },
+    {
+      "raw": 19,
+      "theta": 1.046,
+      "iq": 116,
+      "sem_theta": 0.375,
+      "iq_ci95": [
+        105,
+        127
+      ],
+      "percentile": 85.2,
+      "boundary": false
+    },
+    {
+      "raw": 20,
+      "theta": 1.353,
+      "iq": 120,
+      "sem_theta": 0.462,
+      "iq_ci95": [
+        107,
+        134
+      ],
+      "percentile": 91.2,
+      "boundary": false
+    },
+    {
+      "raw": 21,
+      "theta": 1.857,
+      "iq": 128,
+      "sem_theta": 0.66,
+      "iq_ci95": [
+        108,
+        145
+      ],
+      "percentile": 96.8,
+      "boundary": false
+    },
+    {
+      "raw": 22,
+      "theta": 4.0,
+      "iq": 145,
+      "sem_theta": 3.247,
+      "iq_ci95": [
+        65,
+        145
+      ],
+      "percentile": 100.0,
+      "boundary": true
+    }
+  ]
+}
